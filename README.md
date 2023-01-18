@@ -1,12 +1,6 @@
 ![arash-yeganeh](img/header.jpg)
 
 <p>
-<-- Social Network -->
-<img alt="dev.to" src="https://img.shields.io/badge/-Dev.to-000?style=flat-square&logo=dev.to&logoColor=white"/>
-<img alt="linkedin" src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-<img alt="github" src="https://img.shields.io/badge/-GitHub-ea09c1?style=flat-square&logo=github&logoColor=white"/>
-
-<-- Skill -->
 <img alt="typescript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img alt="css3" src="https://img.shields.io/badge/-CSS3-F59E0B?style=flat-square&logo=css3&logoColor=white"/>
