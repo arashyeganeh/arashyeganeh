@@ -36,38 +36,40 @@ The first sparks of my familiarity with technology were when I got to know Atmel
 
 My great interest in learning and challenging myself has made me look at career issues with a deeper perspective.
 
- With the experience that I have gained in the last few years in the management of organizational network infrastructure and web programming, I decided to start working on a global scale and also  gain experience.
-
-and share my experiences with those interested in this field.
+ With the experience that I have gained in the last few years in the management of organizational network infrastructure and web programming, I decided to start working on a global scale and also  gain experience and share my experiences with those interested in this field.
 
 
 
 ---
 
-<ul>
-	<li>
-		<p>
-			Fork my source code on 
+<table>
+	<tr>
+		<td>Fork my source code on</td>
+		<td>
 			<a href="https://github.com/arashyeganeh?tab=repositories">
 				<img alt="github" src="https://img.shields.io/badge/-GitHub-ea09c1?style=flat-square&logo=github&logoColor=white"/>
 			</a>
-		</p>
-	</li>
-	<li>
-		<p>
+		</td>
+	</tr>
+	<tr>
+		<td>
 			Follow me on
+		</td>
+		<td>
 			<a href="https://www.linkedin.com/in/arash-yeganeh/">
 				<img alt="linkedin" src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 			</a>
-		</p>
-	</li>
-	<li>
-		<p>
-			Read my article on
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Read my articles on
+		</td>
+		<td>
 			<a href="https://dev.to/arashyeganeh">
 				<img alt="dev.to" src="https://img.shields.io/badge/-Dev.to-000?style=flat-square&logo=dev.to&logoColor=white"/>
 			</a>
-		</p>
-	</li>
-</ul>
+		</td>
+	</tr>
+</table>
 
