@@ -32,7 +32,7 @@
 <img alt="pandas" src="https://img.shields.io/badge/-Pandas-fcdeef?style=flat-square&logo=pandas&logoColor=E00484"/>
 </p>
 
-The first sparks of my familiarity with technology were when I got to know Atmel's Atmega 32 microcontroller chips. 
+The first sparks of my familiarity with technology were when I got to know Atmel's "ATmega 32" microcontroller chips. 
 
 My great interest in learning and challenging myself has made me look at career issues with a deeper perspective.
 
