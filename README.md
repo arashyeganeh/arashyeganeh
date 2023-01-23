@@ -31,12 +31,11 @@
 <img alt="tensorflow" src="https://img.shields.io/badge/-TensorFlow-ffdbb5?style=flat-square&logo=tensorflow&logoColor=F78100"/>
 <img alt="pandas" src="https://img.shields.io/badge/-Pandas-fcdeef?style=flat-square&logo=pandas&logoColor=E00484"/>
 </p>
+Welcome to my GitHub page
 
-The first sparks of my familiarity with technology were when I got to know Atmel's "ATmega 32" microcontroller chips. 
+I am excited to share my passion for technology with you. My journey began with Atmel's "ATmega 32" microcontroller chips, which sparked my interest in the field. I've since gained experience in managing organizational network infrastructure and web programming.
 
-My great interest in learning and challenging myself has made me look at career issues with a deeper perspective.
-
- With the experience that I have gained in the last few years in the management of organizational network infrastructure and web programming, I decided to start working on a global scale and also  gain experience and share my experiences with those interested in this field.
+I am driven by my love for learning and challenging myself, and I've come to realize that technology is the perfect outlet for that. With the experience I've acquired over the years, I am now looking to expand my career on a global scale and share my knowledge with others. I am excited to share my projects and experiences with you, and I hope you find them as interesting and informative as I do.
 
 
 
@@ -72,4 +71,3 @@ My great interest in learning and challenging myself has made me look at career 
 		</td>
 	</tr>
 </table>
-
