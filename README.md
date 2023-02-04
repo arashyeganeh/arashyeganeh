@@ -43,14 +43,6 @@ I am driven by my love for learning and challenging myself, and I've come to rea
 
 <table>
 	<tr>
-		<td>Fork my source code on</td>
-		<td>
-			<a href="https://github.com/arashyeganeh?tab=repositories">
-				<img alt="github" src="https://img.shields.io/badge/-GitHub-ea09c1?style=flat-square&logo=github&logoColor=white"/>
-			</a>
-		</td>
-	</tr>
-	<tr>
 		<td>
 			Follow me on
 		</td>
@@ -71,3 +63,4 @@ I am driven by my love for learning and challenging myself, and I've come to rea
 		</td>
 	</tr>
 </table>
+
