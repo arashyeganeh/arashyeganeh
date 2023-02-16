@@ -30,7 +30,7 @@
 	<img alt="pytorch" src="https://img.shields.io/badge/-PyTorch-ffded8?logo=pytorch&logoColor=E74A2B"/>
 	<img alt="tensorflow" src="https://img.shields.io/badge/-TensorFlow-ffdbb5?logo=tensorflow&logoColor=F78100"/>
 	<img alt="pandas" src="https://img.shields.io/badge/-Pandas-fcdeef?logo=pandas&logoColor=E00484"/>
-	<img alt="pandas" src="https://img.shields.io/badge/-Kaggle-bluef"/>
+	<img alt="pandas" src="https://img.shields.io/badge/-Kaggle-blue"/>
 </p>
 Welcome to my GitHub page
 
