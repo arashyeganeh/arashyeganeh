@@ -30,11 +30,13 @@
 	<img alt="pytorch" src="https://img.shields.io/badge/-PyTorch-ffded8?logo=pytorch&logoColor=E74A2B"/>
 	<img alt="tensorflow" src="https://img.shields.io/badge/-TensorFlow-ffdbb5?logo=tensorflow&logoColor=F78100"/>
 	<img alt="pandas" src="https://img.shields.io/badge/-Pandas-fcdeef?logo=pandas&logoColor=E00484"/>
+    <img alt="jupyter" src="https://img.shields.io/badge/Jupyter-ededed?logo=jupyter&logoColor=F37726"/>
 	<img alt="pandas" src="https://img.shields.io/badge/-Kaggle-blue"/>
 </p>
+
 Welcome to my GitHub page
 
-I am excited to share my passion for technology with you. My journey began with Atmel's "ATmega 32" microcontroller chips, which sparked my interest in the field. I've since gained experience in managing organizational network infrastructure and web programming.
+I am excited to share my passion for technology with you. My journey began with Atmel's "ATmega 32" microcontroller chips, which sparked my interest in the field.
 
 I am driven by my love for learning and challenging myself, and I've come to realize that technology is the perfect outlet for that. With the experience I've acquired over the years, I am now looking to expand my career on a global scale and share my knowledge with others. I am excited to share my projects and experiences with you, and I hope you find them as interesting and informative as I do.
 
@@ -43,24 +45,25 @@ I am driven by my love for learning and challenging myself, and I've come to rea
 ---
 
 <table>
-	<tr>
+	<tr align="center">
 		<td>
 			Follow me on
 		</td>
 		<td>
 			<a href="https://www.linkedin.com/in/arash-yeganeh/">
-				<img alt="linkedin" src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+				<img alt="linkedin" src="https://img.shields.io/badge/-Linkedin-0077B5?logo=linkedin&logoColor=white"/>
 			</a>
 		</td>
 	</tr>
-	<tr>
+	<tr align="center">
 		<td>
-			Read my articles on
+			Read my Kaggle notebooks on
 		</td>
 		<td>
-			<a href="https://dev.to/arashyeganeh">
-				<img alt="dev.to" src="https://img.shields.io/badge/-Dev.to-000?style=flat-square&logo=dev.to&logoColor=white"/>
+			<a href="https://www.kaggle.com/arashyeganeh">
+				<img alt="kaggle" src="https://img.shields.io/badge/-Kaggle-blue"/>
 			</a>
 		</td>
 	</tr>
 </table>
+
