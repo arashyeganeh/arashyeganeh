@@ -32,7 +32,7 @@
 	<img alt="tensorflow" src="https://img.shields.io/badge/-TensorFlow-ffdbb5?logo=tensorflow&logoColor=F78100"/>
 	<img alt="pandas" src="https://img.shields.io/badge/-Pandas-fcdeef?logo=pandas&logoColor=E00484"/>
     <img alt="jupyter" src="https://img.shields.io/badge/Jupyter-ededed?logo=jupyter&logoColor=F37726"/>
-	<img alt="pandas" src="https://img.shields.io/badge/-Kaggle-blue"/>
+	<img alt="kaggle" src="https://img.shields.io/badge/-Kaggle-blue"/>
 </p>
 
 Welcome to my GitHub page
