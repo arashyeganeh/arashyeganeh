@@ -4,7 +4,7 @@
 	<img alt="typescript" src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white"/>
 	<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"/>
 	<img alt="css3" src="https://img.shields.io/badge/-CSS3-F59E0B?logo=css3&logoColor=white"/>
-	<img alt="javascript" src="https://img.shields.io/badge/-JavaScript-4CC61E?logo=javascript&logoColor=white"/>
+	<img alt="javascript" src="https://img.shields.io/badge/-JavaScript-EBD64D?logo=javascript&logoColor=white"/>
 	<img alt="sass" src="https://img.shields.io/badge/-Sass-C55F92?logo=SASS&logoColor=white"/>
 	<img alt="tailwindcss" src="https://img.shields.io/badge/-TailwindCSS-41A2AD?logo=tailwindcss&logoColor=white"/>
 	<img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-8311F6?logo=bootstrap&logoColor=white"/>
@@ -17,6 +17,7 @@
 	<img alt="mongodb" src="https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white"/>
 	<img alt="express js" src="https://img.shields.io/badge/-Express%20JS-F7F7F7?logo=express&logoColor=4A4A4A"/>
 	<img alt="nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?logo=Node.js&logoColor=white"/>
+	<img alt="socket.io" src="https://img.shields.io/badge/-Socket.IO-F962AA?logo=socket.io&logoColor=white"/>
 	<img alt="gulp" src="https://img.shields.io/badge/-Gulp-E0453D?logo=gulp&logoColor=white"/>
 	<img alt="mysql" src="https://img.shields.io/badge/-MySQL-0fa1db?logo=mysql&logoColor=white"/>
 	<img alt="cisco" src="https://img.shields.io/badge/-CISCO-2a9fc9?logo=cisco&logoColor=white"/>
