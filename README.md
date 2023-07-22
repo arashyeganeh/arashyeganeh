@@ -8,6 +8,7 @@
 	<img alt="sass" src="https://img.shields.io/badge/-Sass-C55F92?logo=SASS&logoColor=white"/>
 	<img alt="tailwindcss" src="https://img.shields.io/badge/-TailwindCSS-41A2AD?logo=tailwindcss&logoColor=white"/>
 	<img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-8311F6?logo=bootstrap&logoColor=white"/>
+	<img alt="antdesign" src="https://img.shields.io/badge/-Ant%20Design-ff757e?logo=antdesign&logoColor=white"/>
 	<img alt="eslint" src="https://img.shields.io/badge/-ESlint-4930BD?logo=eslint&logoColor=white"/>
 	<img alt="webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white"/>
 	<img alt="react" src="https://img.shields.io/badge/-React-45b8d8?logo=react&logoColor=white"/>
