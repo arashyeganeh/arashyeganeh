@@ -36,11 +36,11 @@
 	<img alt="kaggle" src="https://img.shields.io/badge/-Kaggle-blue"/>
 </p>
 
-Welcome to my GitHub page
+✋ Hi, Welcome to my GitHub page
 
-I am excited to share my passion for technology with you. My journey began with Atmel's "ATmega 32" microcontroller chips, which sparked my interest in the field.
+My name is Arash Yeganeh
+I’m a front-end developer. I have some experience in HTML, CSS, Sass, JavaScript, TypeScript, React, and some of their important libraries such as React Query, React Router, GraphQL, etc. My passion for staying abreast of emerging technologies and frameworks drives my continuous learning. Emphasizing teamwork and effective communication, I find joy in collaborating with fellow developers and designers.
 
-I am driven by my love for learning and challenging myself, and I've come to realize that technology is the perfect outlet for that. With the experience I've acquired over the years, I am now looking to expand my career on a global scale and share my knowledge with others. I am excited to share my projects and experiences with you, and I hope you find them as interesting and informative as I do.
 
 
 
